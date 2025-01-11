@@ -192,15 +192,17 @@
 .jajeera{
     padding-bottom: 8px;
 }
-.datetime{
-    padding-bottom: 5px;
-}
+
 .news-description{
-    padding-bottom: 12px;
+    padding-bottom: 25px;
 }
 .news-content{
     padding: 0px 25px;
 }
 .datetime{
-    color: grey
+    color: grey;
+    padding-bottom: 12px;
+}
+.bg-shadow{
+    padding-bottom: 0px;
 }
