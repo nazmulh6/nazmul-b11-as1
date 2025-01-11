@@ -71,3 +71,78 @@
     border-radius: 5px;
     border: none;
 }
+.vision-cards{
+    display: flex;
+    gap: 24px;
+}
+.vision-card-1{
+    text-align: justify;
+    width: 350px;
+    height: 250px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(209, 230, 244);
+    padding: 32px;
+}
+.btn-1 {
+    background-color: #5490F5;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.vision-card-2{
+    text-align: justify;
+    width: 350px;
+    height: 250px;
+    border: none;
+    border-radius: 5px;
+    background-color: #C6E4D6;
+    padding: 32px;
+}
+.btn-2 {
+    background-color: #09A15C;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.vision-card-3{
+    text-align: justify;
+    width: 350px;
+    height: 250px;
+    border: none;
+    border-radius: 5px;
+    background-color: #F7EBCF;
+    padding: 32px;
+}
+.btn-3 {
+    background-color: #FFC239;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.vision{
+    padding: 10px;
+    margin: 30px 160px;
+}
+.card-image{
+    padding-bottom: 24px;
+}
+.card-title{
+    padding-bottom: 12px;
+}
+.card-description{
+    padding-bottom: 24px;
+    color:grey ;
+}
+.vision-title{
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 24px;
+}
+.vision-description{
+    color:grey ;
+    padding-bottom: 32px;
+}
