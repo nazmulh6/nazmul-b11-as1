@@ -25,8 +25,6 @@
 }
 .banner-container{
     background-color: #C6E4D6;
-    /* width: 74%; */
-    /* height: 70vh; */
     margin-right: 160px;
     margin: 20px 160px;
     border-radius: 10px;
@@ -37,16 +35,6 @@
     justify-content: space-between;
     align-items: center;
     padding: 50px 100px;
-}
-.banner-content{
-    /* width: 300px; */
-    /* padding-left: 40px; */
-    /* padding-top: 100px; */
-
-}
-.banner-coloumn{
-    /* padding-right: 40px; */
-    /* padding-top: 60px; */
 }
 .banner-sub-title{
     color: grey;
@@ -62,8 +50,6 @@
 }
 .banner-image{
     width: 300px;
-    /* padding-right: 40px; */
-    /* padding-top: 70px; */
 }
 .explore{
     background-color: #006A50;
@@ -75,6 +61,7 @@
 .vision-cards{
     display: flex;
     gap: 24px;
+    justify-content: space-around;
 }
 .vision-card-1{
     text-align: justify;
@@ -258,5 +245,58 @@
 text-align: center;
     width: 50%;
     height: 50px;
-
+}
+.challenge-container{
+    background-color: #C6E4D6;
+    margin-right: 160px;
+    margin: 20px 160px;
+    border-radius: 10px;
+    text-align: center;
+}
+.challenge-title{
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 15px;
+   padding-top: 24px;
+}
+.challenge-description{
+    color: grey;
+    padding-bottom: 24px;
+}
+.input-box2 input{
+    align-items: center;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    font-weight:100px;
+    margin: 13px;
+    text-align: justify;
+    width: 50%;
+    height: 50px;
+}
+/* .forming{
+    display: flex;
+} */
+.btn-subscribe{
+    background-color: #006A50;
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.footer-title{
+    
+    padding-bottom: 20px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.footer-item{
+    padding-left: 10px;
+    margin-left: 10px;
+    gap: 10px;
+}
+.footer-icon{
+    padding: 10px;
 }
