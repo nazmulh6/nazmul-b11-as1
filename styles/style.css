@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    /* background-color: #F1F1F3; */
 }
 .fira-sans-regular {
     font-family: "Fira Sans", serif;
@@ -145,4 +146,61 @@
 .vision-description{
     color:grey ;
     padding-bottom: 32px;
+}
+.news-container{
+    display: flex;
+    padding: 40px;
+    
+}
+.bg-shadow{
+    background-color:rgb(241, 243, 232);
+    border-radius: 10px;
+    border: none;
+}
+.news{
+    padding: 10px;
+    margin: 30px 160px;
+    
+}
+.news-head{
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 24px;
+}
+.news-description{
+    color:grey ;
+    padding-bottom: 32px;
+}
+.satelite-pic{
+    width: 350px;
+    border-radius: 5%;
+}
+.news-title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+.btn-read {
+    background-color: #006A50;
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+}
+.jajeera{
+    padding-bottom: 8px;
+}
+.datetime{
+    padding-bottom: 5px;
+}
+.news-description{
+    padding-bottom: 12px;
+}
+.news-content{
+    padding: 0px 25px;
+}
+.datetime{
+    color: grey
 }
